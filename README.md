@@ -1,4 +1,3 @@
-# Image-Classification-vs-Regression-guide
 # Image Classification vs Regression 비교
 
 머신러닝에서 가장 기본이 되는 두 가지 문제 유형인 Classification(분류)과 Regression(회귀)의 차이를 정리합니다.
